@@ -40,3 +40,6 @@ Give the 2 student's grade
 > 10
 
 [8, 10]
+```
+---
+*Developed for the University of Piraeus*
